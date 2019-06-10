@@ -1,3 +1,4 @@
+package lambdas;
 
 public class Java8LambdasDemo {
 

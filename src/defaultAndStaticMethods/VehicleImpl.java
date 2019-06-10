@@ -1,3 +1,4 @@
+package defaultAndStaticMethods;
 import java.util.Calendar;
 
 // This is the implementation class of the Vehicle* interface
