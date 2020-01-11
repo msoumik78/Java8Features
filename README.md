@@ -1,12 +1,6 @@
-# Project Title
-
-Simple overview of features in Java8 for my students.
-
-## Description
-
+# Java 8 Features
+This project is aboiut a simple overview of features in Java8 for my students.
 This repository contains some simple programs to demonstrate the new features introduced in Java 8. 
-
-## Getting Started
 
 ### Dependencies
 
@@ -15,7 +9,7 @@ This repository contains some simple programs to demonstrate the new features in
 
 ### Compiling
 
-* mvn clean compile
+ `mvn clean compile `
 
 ### Running program
 
