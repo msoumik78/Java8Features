@@ -1,6 +1,6 @@
 # Java 8 Features
-This project gives a simple overview of features in Java8 and it is mainly toi help my studenst who are new to Java8.
-This repository contains some simple programs to demonstrate the new features introduced in Java 8 and essentially the below features of Java 8 have been highlighted:
+This project gives a simple overview of features in Java8 and it is mainly to help my students who are new to Java8.
+This repository contains some simple programs divided into 4 different packages to demonstrate the following 4 new features introduced in Java 8 :
 * Default and static methods in Interfaces
 * Optional
 * Lambdas
@@ -25,5 +25,10 @@ The below command runs the program related to default and static methods in Java
 `mvn exec:java -Dexec.mainClass="defaultAndStaticMethods.VehicleImpl" `
 
 The below command runs the program related to Lambdas in Java 8 
-`mvn exec:java -Dexec.mainClass="defaultAndStaticMethods.lambdas" `
+`mvn exec:java -Dexec.mainClass="lambdas.Java8LambdasDemo" `
 
+The below command runs the program related to Lambdas in Java 8 
+`mvn exec:java -Dexec.mainClass="optional.Java8Optional" `
+
+The below command runs the program related to Lambdas in Java 8 
+`mvn exec:java -Dexec.mainClass="streams.Java8Streams" `
