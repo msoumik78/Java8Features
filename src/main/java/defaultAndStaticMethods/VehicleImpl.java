@@ -16,7 +16,7 @@ public class VehicleImpl implements VehicleInterfaceWithDefaultAndStaticMethods 
 		System.out.println("Current month : "+ vehicle.getCurrentMonth());
 		
 		// This invokes the static method in the interface
-		System.out.println("Convert Kms to Miles : "+VehicleInterfaceWithDefaultAndStaticMethods.convertKmToMiles(10));
+		System.out.println("Convert 10 Kms to Miles : "+VehicleInterfaceWithDefaultAndStaticMethods.convertKmToMiles(10));
 		
 	}
 	
