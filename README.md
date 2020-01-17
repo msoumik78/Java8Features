@@ -12,7 +12,7 @@ Please also refer to my blog here [Soumik's blog](https://msoumik78.github.io/ja
 
 ### Dependencies
 
-* Java 8 should be installed and available in the system. JAVA_HOME environment variable be set and pointing to the location of Java 8.
+* Java 8 should be installed and available in the system. JAVA_HOME environment variable should be set and pointing to the location of Java 8.
 * Maven should be installed in the system and set in PATH.
 
 ### Compiling
@@ -21,14 +21,14 @@ Please also refer to my blog here [Soumik's blog](https://msoumik78.github.io/ja
 
 ### Running program
 
-The below command runs the program related to default and static methods in Java 8 interfaces 
+The below command runs the program related to default and static methods in Java 8 interfaces     
 `mvn exec:java -Dexec.mainClass="defaultAndStaticMethods.VehicleImpl" `
 
-The below command runs the program related to Lambdas in Java 8 
+The below command runs the program related to Lambdas in Java 8      
 `mvn exec:java -Dexec.mainClass="lambdas.Java8LambdasDemo" `
 
-The below command runs the program related to Lambdas in Java 8 
+The below command runs the program related to Lambdas in Java 8     
 `mvn exec:java -Dexec.mainClass="optional.Java8Optional" `
 
-The below command runs the program related to Lambdas in Java 8 
+The below command runs the program related to Lambdas in Java 8      
 `mvn exec:java -Dexec.mainClass="streams.Java8Streams" `
